@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Model files (if you save trained models)
+*.pkl
+
+# Operating System files
+.DS_Store
+Thumbs.db
